@@ -1,2 +1,1 @@
-# Developer tools
-# frontend developnent. 
+# my 0x01. Developer tools
